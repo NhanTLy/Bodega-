@@ -2,3 +2,7 @@ node_modules
 build
 npm-debug.log
 .DS_Store
+notes
+github command notes
+pantry_postgresql_create.sql
+RLBF.env

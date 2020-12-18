@@ -35,5 +35,3 @@ INSERT INTO public.pantry (item_name, note, unit, qty, category, par) VALUES ('M
 INSERT INTO public.pantry (item_name, note, unit, qty, category, par) VALUES ('Bread', 'White', 'Loaf', '4', 'Pantry', '3');
 
 INSERT INTO public.shopping (item_name, note, unit, list_qty, category) VALUES ('Sam Adams', 'Lager', 'Bottle', '12', 'Alcohol');
-
--- psql -d postgres://xvzpelsn:FR_araMqHVuQNjR1SK2lJdaztmjC77Gd@suleiman.db.elephantsql.com:5432/xvzpelsn -f pantry_postgresql_create.sql
